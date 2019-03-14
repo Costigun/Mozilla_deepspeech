@@ -1,0 +1,5 @@
+#!/home/meaculpa/mozilla/Mozilla/bin/python3
+
+from deepspeech_server.server import main;
+
+main()
